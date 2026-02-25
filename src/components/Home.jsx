@@ -151,11 +151,11 @@ const HomePage = () => {
                         </div>
                     
                         <div className='featuredItem-sectionOne-textDiv'>
-                            <h2>ZX9 SPEAKER</h2>
+                           <h2>ZX9 SPEAKER</h2>
                            <p>Upgrade to premium speakers that are phenominally built to deliver truly remarkable sounds</p>
                            <div  className="featuredItem-linkDiv"><a href="/productDetails/5">SEE PRODUCT</a></div>
+                           </div>
                         </div>
-                      </div>
 
                       <div className="featuredItem-sectionTwo grid">
                         <div className="featuredItem-sectionTwoTextDiv">

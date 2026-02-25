@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "XX99 Mark II Headphones",
-      "image": "/public/XX99-Mark-two-headphones.jpg",
+      "image": "/XX99-mark-two-headphones.jpg",
       "price": 4500,
       "snippet": "The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound.",
       "currency": "$",
@@ -17,15 +17,15 @@
   { "item": "Travel bag", "quantity": 1 }
 ],
      "gallery": {
-        "first": "/public/About-us.jpg",
-        "second": "/public/XX99-mark-two-headphone-image-gallery-2.jpg",
-        "third": "/public/XX99-mark-two-headphone-image-gallery-3.jpg"
+        "first": "/About-Us.jpg",
+        "second": "/XX99-mark-two-headphone-image-gallery-2.jpg",
+        "third": "/XX99-mark-two-headphone-image-gallery-3.jpg"
       }
     },
     {
       "id": 2,
       "name": "XX99 Mark I Headphones",
-      "image": "/public/XX99 Mark I Headphones.jpg",
+      "image": "/XX99 Mark I Headphones.jpg",
       "price": 1750,
       "snippet": "As the gold standard for headphones, the classic XX99 Mark I offers detailed and accurate audio reproduction for audiophiles, mixing engineers, and music aficionados alike in studios and on the go.",
       "currency": "$",
@@ -38,15 +38,15 @@
   { "item": "3.5mm 5m audio cable", "quantity": 1 }
 ],
      "gallery": {
-        "first": "/public/XX99 Mark I Headphones-image-gallery-1.jpg",
-        "second": "/public/XX99 Mark I Headphones-image-gallery-2.jpg",
-        "third": "/public/XX99 Mark I Headphones-image-gallery-3.jpg"
+        "first": "/XX99 Mark I Headphones-image-gallery-1.jpg",
+        "second": "/XX99 Mark I Headphones-image-gallery-2.jpg",
+        "third": "/XX99 Mark I Headphones-image-gallery-3.jpg"
       }
     },
     {
       "id": 3,
       "name": "XX59 Headphones",
-      "image": "/public/XX59-headphones.jpg",
+      "image": "/XX59-headphones.jpg",
       "price": 899,
       "snippet": "Enjoy your audio almost anywhere and customize it to your specific tastes with the XX59 headphones. The stylish yet durable versatile wireless headset is a brilliant companion at home or on the move.",
       "currency": "$",
@@ -59,15 +59,15 @@
   { "item": "3.5mm 5m audio cable", "quantity": 1 }
 ],
      "gallery": {
-        "first": "/public/XX59-headphones-image-gallery-1.jpg",
-        "second": "/public/XX59-headphones-image-gallery-2.jpg",
-        "third": "/public/XX59-headphones-image-gallery-3.jpg"
+        "first": "/XX59-headphones-image-gallery-1.jpg",
+        "second": "/XX59-headphones-image-gallery-2.jpg",
+        "third": "/XX59-headphones-image-gallery-3.jpg"
       }
     },
     {
       "id": 4,
       "name": "ZX7 Speaker",
-      "image": "/public/speakerZX7.jpg",
+      "image": "/speakerZX7.jpg",
       "price": 3500,
       "snippet": "Stream high quality sound wirelessly with minimal to no loss. The ZX7 speaker uses high-end audiophile components that represents the top of the line powered speakers for home or studio use.",
       "currency": "$",
@@ -81,15 +81,15 @@
   { "item": "7.5m optical cable", "quantity": 1 }
 ],
      "gallery": {
-        "first": "/public/speakerZX7-image-gallery-1.jpg",
-        "second": "/public/speakerZX7-image-gallery-2.jpg",
-        "third": "/public/speakerZX7-image-gallery-3.jpg"
+        "first": "/speakerZX7-image-gallery-1.jpg",
+        "second": "/speakerZX7-image-gallery-2.jpg",
+        "third": "/speakerZX7-image-gallery-3.jpg"
       }
     },
    {
       "id": 5,
       "name": "ZX9 Speaker",
-      "image": "/public/speakerZX9.jpg",
+      "image": "/speakerZX9.jpg",
       "price": 4500,
       "snippet": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
       "currency": "$",
@@ -103,15 +103,15 @@
           { "item": "10m optical cable", "quantity": 1 }
         ],
      "gallery": {
-        "first": "/public/speakerZX9-image-gallery-1.jpg",
-        "second": "/public/speakerZX9-image-gallery-2.jpg",
-        "third": "/public/speakerZX9-image-gallery-3.jpg"
+        "first": "/speakerZX9-image-gallery-1.jpg",
+        "second": "/speakerZX9-image-gallery-2.jpg",
+        "third": "/speakerZX9-image-gallery-3.jpg"
       }
     },
     {
       "id": 6,
       "name": "YX1 Wireless Earphones",
-      "image": "/public/YX1 Wireless Earphones.jpg",
+      "image": "/YX1 Wireless Earphones.jpg",
       "price": 599,
       "snippet": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
       "currency": "$",
@@ -125,9 +125,9 @@
           { "item": "Travel pouch", "quantity": 1 }
         ],
      "gallery": {
-        "first": "/public/YX1 Wireless Earphones-image-gallery-1.jpg",
-        "second": "/public/YX1 Wireless Earphones-image-gallery-2.jpg",
-        "third": "/public/YX1 Wireless Earphones-image-gallery-3.jpg"
+        "first": "/YX1 Wireless Earphones-image-gallery-1.jpg",
+        "second": "/YX1 Wireless Earphones-image-gallery-2.jpg",
+        "third": "/YX1 Wireless Earphones-image-gallery-3.jpg"
       }
     }
   ]
