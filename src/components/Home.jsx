@@ -64,7 +64,7 @@ const HomePage = () => {
                 <div className='cartContainer' style={{display: cartOpen ? 'block' : 'none'}}>
                   {cart.length === 0 ? (
                     <div className='emptyCart-div'>
-                      <div><img src="/public/cart-icon.png" alt="" /></div> 
+                      <div><img src="/cart-icon.png" alt="" /></div>
                       <div className='emptyCart-noteDiv'><h3>The cart is empty</h3></div>
                       <div className='startShopping-buttonDiv'><Link to="/">START SHOPPING</Link></div>
                     </div>

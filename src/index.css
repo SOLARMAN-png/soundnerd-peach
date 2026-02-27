@@ -84,7 +84,7 @@ position: relative;
   justify-content: center;
   padding: 50px;
   background-color: #101010;
-  background-image: url(/public/homepage-headphone.png);
+  background-image: url(/homepage-headphone.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -275,7 +275,7 @@ padding: 10px auto;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
-  background-image: url(public/pattern-circles.svg);
+  background-image: url(/pattern-circles.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -474,17 +474,6 @@ footer {
   position: relative;
   width: 100%;
 }
-
-/* .footer-nullDiv {
-position: absolute;
-width: 100px;
-height: 5px;
-background-color: #d87d4a;
-top: 0;
-display: flex; 
-align-self: center;
-justify-self: center;
-} */
 
 .footer-nullDiv {
   position: absolute;
