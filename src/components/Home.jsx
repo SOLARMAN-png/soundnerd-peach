@@ -126,7 +126,7 @@ const HomePage = () => {
                     <div className="categoriesCard">
                         <div className="categoriesCard-imageContainer"><img src="/speaker.png" alt="" /></div>
                         <div className="categoriesCard-actionDiv">
-                            <h3>SPEAKER</h3>
+                            <h3>SPEAKERS</h3>
                             <div><a href="/speakers">SHOP</a>
                             <img className="categoriesCard-arrowIcon" src="/icon-arrow-right.svg" alt="" />
                             </div>
@@ -154,8 +154,8 @@ const HomePage = () => {
                            <h2>ZX9 SPEAKER</h2>
                            <p>Upgrade to premium speakers that are phenominally built to deliver truly remarkable sounds</p>
                            <div  className="featuredItem-linkDiv"><a href="/productDetails/5">SEE PRODUCT</a></div>
-                           </div>
                         </div>
+                      </div>
 
                       <div className="featuredItem-sectionTwo grid">
                         <div className="featuredItem-sectionTwoTextDiv">
@@ -163,6 +163,7 @@ const HomePage = () => {
                             <div><a href="/productDetails/4">SEE PRODUCT</a></div>
                         </div>
                         <div className='featuredItem-sectionTwo-imageDiv'>
+                            {/* <img src="/speakerZX7.jpg" alt="" /> */}
                         </div> 
                       </div>
 

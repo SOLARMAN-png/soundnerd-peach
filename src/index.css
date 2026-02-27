@@ -46,6 +46,7 @@ position: relative;
 
 .mobile-mainNav h1 a {
   color: white;
+  font-size: 1.1em;
 }
 
 .desktop-mainNav {
@@ -94,34 +95,39 @@ position: relative;
 .introductionBanner-textDiv {
   width: 300px;
   text-align: center;
-  margin: 100px auto 100px auto;
+  margin: 150px auto 100px auto;
+  padding: 0;
+  /* background-color: green; */
 }
 
 .introductionBanner-textDiv h3 {
   color: gray;
-  font-size: 1.5em;
+  font-size: 1.4em;
   margin: 0;
+  padding-top: 20px;
 }
 
 .introductionBanner-textDiv h2 {
   color: white;
-  font-size: 2.2em;
-  margin: 10px 0;
+  font-size: 2.15em;
+  margin: 20px 0;
 }
 
 .introductionBanner-textDiv p {
   color: white;
   margin: 20px 0;
+  font-size: 1.2em;
 }
 
 .introductionBanner-textDiv div {
   margin-top: 45px;
 }
 
+
 .introductionBanner-textDiv a {
-background-color: #d87d4a;
+  background-color: #d87d4a;
   color: white;
-  border: none;
+  border: none;   
   padding: 15px 30px;
   cursor: pointer;
   font-size: 1em;
@@ -334,6 +340,7 @@ padding: 10px auto;
   justify-content: center;
   margin: auto 0;
   /* background-color: tomato; */
+  padding: 20px 0 30px 0;
 }
 
 .featuredItem-sectionTwoTextDiv h2 {
@@ -357,7 +364,7 @@ padding: 10px auto;
 
 
 .featuredItem-sectionTwoImgDiv {
-  width: 40%;
+  width: 100px;
   height: 300px;
   margin: 10px 0 0 0;
 }
@@ -384,16 +391,20 @@ padding: 10px auto;
 .featuredItem-sectionFour {
   background-color: whitesmoke;
   width: 100%;
-  height: 200px;
   border-radius: 10px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 30px;
 }
 
 .featuredItem-sectionFourTextDiv {
   width: 70%;
   display: flex;
   flex-direction: column;
-  margin: 30px 0;
+  margin: 15px 0 30px 0;
   /* background-color: tomato; */
+  padding: 20px 0 30px 0;
 }
 
 .featuredItem-sectionFourTextDiv h2 {
@@ -461,17 +472,28 @@ footer {
   padding: 70px 0 40px 0;
   margin-top: 110px;
   position: relative;
+  width: 100%;
 }
 
-.footer-nullDiv {
+/* .footer-nullDiv {
 position: absolute;
 width: 100px;
 height: 5px;
 background-color: #d87d4a;
 top: 0;
-display: flex;
+display: flex; 
 align-self: center;
 justify-self: center;
+} */
+
+.footer-nullDiv {
+  position: absolute;
+  width: 100px;
+  height: 5px;
+  background-color: #d87d4a;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .footerWebsite-titleDiv {
